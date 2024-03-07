@@ -1,4 +1,5 @@
 # Infoanzeige
+Hier ist angegeben wie man eine Datei in diesem Fall info.md mit git erzeugen und auf github hochladen kann.
 
 ## Mit Powershell
 erzeuge Dateipfad
@@ -20,3 +21,6 @@ git commit -m 'Filename'
 git remote add origin Github Dateipfad
 git push -u origin main
 ```
+
+## Auf der Github.com website
+den erzeugten ssh key in den Einstellungen abspeichern
