@@ -1,4 +1,11 @@
 # Infoanzeige
-* Hier werden Informationen angezeigt
-* Aktuell leider nichts
-* aber zum testen ist es trotzdem nützlich
+
+## Mit Powershell
+erzeuge Dateipfad
+installiere Git
+erzeuge ssh key
+
+## Mit der "Git Bash"
+
+öffne Dateipfad
+'''cd users
