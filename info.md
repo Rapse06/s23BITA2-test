@@ -23,4 +23,5 @@ git push -u origin main
 ```
 
 ## Auf der Github.com website
-den erzeugten ssh key in den Einstellungen abspeichern
+den erzeugten ssh key in dem Explorer in einem Unterordner Namens ssh öffnen und in den GitHub-Einstellungen abspeichern
+Der ssh Key wird standartmäßig in dem Ordnerverlauf C/Benutzer/user/.ssh abgelegt
